@@ -4,10 +4,11 @@ import { Login } from './login/login';
 import { Events } from './events/events';
 import { Custom } from './custom/custom';
 import { Day2Task1 } from './day2-task1/day2-task1';
+import { Day2Task2 } from './day2-task2/day2-task2';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet,Login,Events,Custom,Day2Task1],
+  imports: [RouterOutlet,Login,Events,Custom,Day2Task1,Day2Task2],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
