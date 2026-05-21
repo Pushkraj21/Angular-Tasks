@@ -1,0 +1,34 @@
+.btn{
+    border-radius: 50px;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+}
+.ctl{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.num{
+    background-color: gray;
+    border-radius: 80px;
+    
+    text-align: center;
+    padding: 20px;
+    width: 90px;
+    margin: 0 auto;
+}
+.bg-green{
+    background-color: green;
+    color: aliceblue;
+}
+.bg-red{
+    background-color: red;
+     color: aliceblue;
+}
+.bg-black{
+    background-color: black;
+     color: aliceblue;
+}
